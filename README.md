@@ -18,7 +18,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg"> **[Movie Recommendation System](https://github.com/archd3sai/News-Articles-Recommendation)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
