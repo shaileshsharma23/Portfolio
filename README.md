@@ -18,7 +18,7 @@ A Content based filtering personalized movie recommendation system which can sug
 
 <img align="left" width="250" height="150" src="https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg"> **[Loan Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
 
-In this project I applied various classification models such as Logistic Regression, Random Forest to detect consumers who will default the loan. Credit_history is highly correlated to the loan approval column anf got a accuracy of 80% with RandomForest.
+In this project I applied various classification models such as Logistic Regression, Random Forest to detect consumers who will default the loan. Credit_history is highly correlated to the loan approval column and got a accuracy of 80% with RandomForest.
 
 
 
