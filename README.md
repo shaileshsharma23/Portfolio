@@ -22,9 +22,17 @@ In this project I applied various classification models such as Logistic Regress
 
 #
 
-<img align="left" width="250" height="150" src="https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480"> **[House Price Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
+<img align="left" width="250" height="150" src="https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480"> **[House Price Prediction](https://github.com/shaileshsharma23/House_Price_Prediction)**
 
 In this project I applied various Regession models. I got a accuracy of 87% with RandomForest whereas DicisionTree was giving 89% accuracy but the problem of overfitting makes me to choose RandomForest.
+
+# 
+
+<img align="left" width="250" height="150" src="[https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480](https://thumbs.dreamstime.com/b/attack-smartphone-speech-bubble-skull-crossbones-screen-threats-mobile-malware-spam-messages-vector-stock-178212059.jpg)"> **[Spam Message Classifier](https://github.com/shaileshsharma23/House_Price_Prediction)**
+
+In this project I applied various Regession models. I got a accuracy of 87% with RandomForest whereas DicisionTree was giving 89% accuracy but the problem of overfitting makes me to choose RandomForest.
+
+
 
 
 
