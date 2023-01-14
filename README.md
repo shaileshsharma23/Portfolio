@@ -11,12 +11,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg"> **[Movie Recommendation System](https://github.com/shaileshsharma23/Recommendation-System)**
  
-A Content based filtering personalized movie recommendation system which can suggest movie from content similarity of the movies(Content-based filtering).
+A Content based filtering personalized movie recommendation system which can suggest movie from content similarity of the movies(Content-based filtering).Lead a Team of 5 and developed this project. Role played during is building Content based recommendation system model function.
 
 #
 
 
 <img align="left" width="250" height="150" src="https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg"> **[Loan Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
+
+In this project I applied various classification models such as Logistic Regression, Random Forest to detect consumers who will default the loan. Credit_history is highly correlated to the loan approval column anf got a accuracy of 80% with RandomForest.
 
 
 
