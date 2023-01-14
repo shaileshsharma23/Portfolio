@@ -28,9 +28,9 @@ In this project I applied various Regession models. I got a accuracy of 87% with
 
 # 
 
-<img align="left" width="250" height="150" src="[https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480](https://thumbs.dreamstime.com/b/attack-smartphone-speech-bubble-skull-crossbones-screen-threats-mobile-malware-spam-messages-vector-stock-178212059.jpg)"> **[Spam Message Classifier](https://github.com/shaileshsharma23/House_Price_Prediction)**
+<img align="left" width="250" height="150" src="[https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480](https://thumbs.dreamstime.com/b/attack-smartphone-speech-bubble-skull-crossbones-screen-threats-mobile-malware-spam-messages-vector-stock-178212059.jpg)"> **[Spam Message Classifier](https://github.com/shaileshsharma23/Spam_Message_Classifier)**
 
-In this project I applied various Regession models. I got a accuracy of 87% with RandomForest whereas DicisionTree was giving 89% accuracy but the problem of overfitting makes me to choose RandomForest.
+In this project I applied various Classification models. I made this project with the help of NLP. I got a accuracy of 87% with Naive Bayes Classifier whereas other models was actually overfitting while handling the data.
 
 
 
