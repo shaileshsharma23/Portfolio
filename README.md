@@ -20,5 +20,13 @@ A Content based filtering personalized movie recommendation system which can sug
 
 In this project I applied various classification models such as Logistic Regression, Random Forest to detect consumers who will default the loan. Credit_history is highly correlated to the loan approval column and got a accuracy of 80% with RandomForest.
 
+#
+
+<img align="left" width="250" height="150" src="https://ak.picdn.net/shutterstock/videos/1074160178/thumb/9.jpg?ip=x480"> **[House Price Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
+
+In this project I applied various Regession models. I got a accuracy of 87% with RandomForest whereas DicisionTree was giving 89% accuracy but the problem of overfitting makes me to choose RandomForest.
+
+
+
 
 
