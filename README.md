@@ -15,6 +15,7 @@ A Content based filtering personalized movie recommendation system which can sug
 
 #
 
+
 <img align="left" width="250" height="150" src="https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg"> **[Loan Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
 
 
