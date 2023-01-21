@@ -38,7 +38,11 @@ In this project I applied various Classification models. I made this project wit
 
 #
 
-**[Heart Disease Classifer](https://github.com/shaileshsharma23/Spam_Message_Classifier)**
+**[Heart Disease Classifer](https://github.com/shaileshsharma23/Heart_Disease_Classifier)**
+
+#
+
+
 
 
 
