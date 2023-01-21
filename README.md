@@ -32,6 +32,11 @@ In this project I applied various Regession models. I got a accuracy of 87% with
 
 In this project I applied various Classification models. I made this project with the help of NLP. I got a accuracy of 87% with Naive Bayes Classifier whereas other models was actually overfitting while handling the data.
 
+#
+
+#More Projects:
+
+#
 
 
 
