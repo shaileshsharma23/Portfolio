@@ -34,7 +34,7 @@ In this project I applied various Classification models. I made this project wit
 
 #
 
-#More Projects:
+# More Projects:
 
 #
 
