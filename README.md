@@ -34,7 +34,9 @@ In this project I applied various Classification models. I made this project wit
 
 #
 
-<img align="left" width="250" height="150" src="(https://miro.medium.com/max/640/0*_6WEDnZubsQfTMlY.png)"> **[Credit Card Fraud Dection](https://github.com/shaileshsharma23/Spam_Message_Classifier)**
+<img align="left" width="250" height="150" src="(https://miro.medium.com/max/640/0*_6WEDnZubsQfTMlY.png)"> **[Credit Card Fraud Dection](https://github.com/shaileshsharma23/Credit-Card-Fraud-Transaction-Prediction-App)**
+
+In this project I applied various Classification models. I got a high accuracy with Random Forest classifier Classifier whereas data was inbalance so we used smothe to make it balanced.
 
 # More Projects:
 
