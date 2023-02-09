@@ -42,6 +42,7 @@ In this project I applied various Classification models. I got a high accuracy w
 
 #
 
+
 **[Heart Disease Classifer](https://github.com/shaileshsharma23/Heart_Disease_Classifier)**
 
 #
