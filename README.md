@@ -16,7 +16,7 @@ A Content based filtering personalized movie recommendation system which can sug
 #
 
 
-<img align="left" width="250" height="150" src="https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg"> **[Loan Prediction](https://github.com/shaileshsharma23/Loan-Prediction)**
+<img align="left" width="250" height="150" src="https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg"> **[Loan Prediction](https://github.com/shaileshsharma23/Email_Marketing_Dashboard)**
 
 In this project I applied various classification models such as Logistic Regression, Random Forest to detect consumers who will default the loan. Credit_history is highly correlated to the loan approval column and got a accuracy of 80% with RandomForest.
 
@@ -47,7 +47,7 @@ In this project I applied various Classification models. I got a high accuracy w
 
 #
 
-<img align="left" width="250" height="150" src="https://miro.medium.com/max/640/0*_6WEDnZubsQfTMlY.png"> **[Credit Card Fraud Dection](https://github.com/shaileshsharma23/Credit-Card-Fraud-Transaction-Prediction-App)**
+<img align="left" width="250" height="150" src="https://miro.medium.com/max/640/0*_6WEDnZubsQfTMlY.png"> **[Email Marketing Dashboard(Power BI)](https://github.com/shaileshsharma23/Email_Marketing_Dashboard)**
 
 In this project I applied various Classification models. I got a high accuracy with Random Forest classifier Classifier whereas data was inbalance so we used smothe to make it balanced.
 
