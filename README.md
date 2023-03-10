@@ -47,18 +47,17 @@ In this project I applied various Classification models. I got a high accuracy w
 
 #
 
-<img align="left" width="250" height="150" src="https://archerpoint.com/wp-content/uploads/2020/03/power-bi.jpg"> **[Email Marketing Dashboard(Power BI)](https://github.com/shaileshsharma23/Email_Marketing_Dashboard)**
+<img align="left" width="250" height="150" src="https://archerpoint.com/wp-content/uploads/2020/03/power-bi.jpg"> **[Email Marketing Analytics(Power BI)](https://github.com/shaileshsharma23/Email_Marketing_Dashboard)**
 
-In this project I applied various Classification models. I got a high accuracy with Random Forest classifier Classifier whereas data was inbalance so we used smothe to make it balanced.
+Created an email campaign marketing dashboard using Power BI that provides real-time data updates and interactive visualizations to optimize campaign performance. Monitored metrics such as open rate, click-through rate, and conversion rate to identify trends and improve engagement.
 
 
 
 #
 
-<img align="left" width="250" height="150" src="https://miro.medium.com/max/640/0*_6WEDnZubsQfTMlY.png"> **[Credit Card Fraud Dection](https://github.com/shaileshsharma23/Credit-Card-Fraud-Transaction-Prediction-App)**
+<img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDYuy504nNawi2jfheKmF-Wdd-Qfx06Z6Og&usqp=CAU"> **[Supermarket_Sales Analytics(Excel)](https://github.com/shaileshsharma23/Excel_Project_Supermarket_Sales)**
 
-In this project I applied various Classification models. I got a high accuracy with Random Forest classifier Classifier whereas data was inbalance so we used smothe to make it balanced.
-
+Created an email Supermarket_Sales dashboard using MS Excel that provides real-time data updates and interactive visualizations to optimize campaign performance.
 
 
 
